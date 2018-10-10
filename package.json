@@ -1,6 +1,6 @@
 {
   "name": "num-ord",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts intergers to ordinal numbers.",
   "main": "src/index.js",
   "directories": {
@@ -13,6 +13,10 @@
     "numbers",
     "ordinal"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThatTonybo/num-ord"
+  },
   "author": "ThatTonybo",
   "license": "MIT",
   "dependencies": {
