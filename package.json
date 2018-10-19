@@ -1,6 +1,6 @@
 {
   "name": "num-ord",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Converts intergers to ordinal numbers.",
   "main": "src/index.js",
   "directories": {
@@ -19,7 +19,5 @@
   },
   "author": "ThatTonybo",
   "license": "MIT",
-  "dependencies": {
-    "enum": "^2.5.0"
-  }
+  "dependencies": {}
 }
