@@ -27,3 +27,6 @@ require('num-ord')(17); // => '17th'
 ```
 
 It will parse strings to numbers if a string is passed and is a valid number.
+
+## Licence
+(c) 2018 - 2019 ThatTonybo. This project is not licenced under any official licences.
